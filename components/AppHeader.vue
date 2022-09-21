@@ -5,6 +5,7 @@
       <li><nuxt-link to="/">Home</nuxt-link></li>
       <li><nuxt-link to="/jokes">Jokes</nuxt-link></li>
       <li><nuxt-link to="/about">About</nuxt-link></li>
+      <li><nuxt-link to="/textTail">textTail</nuxt-link></li>
     </ul>
   </header>
 </template>
